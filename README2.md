@@ -1,17 +1,17 @@
 
 # Welcome
 
-## My skills ❤️
+## **My* **skills* ❤️
 - Java
 - Python
 - Github
 
-## My major projects 💼
+## **My major projects* 💼
 1. Java banking App
 2. Python AI tool
 3. My own social network
    
-## My favorite part of code
+## **My favorite part of code*
 ```java
 double temp = -15.0;
     if (temp <= 5) {
