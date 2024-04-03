@@ -2,9 +2,9 @@
 # Welcome
 
 ## My skills
--Java
--Python
--Github
+- Java
+- Python
+- Github
 
 ## My major projects
 1. Java banking App
