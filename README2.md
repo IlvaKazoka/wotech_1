@@ -1,5 +1,4 @@
-
-`#FF0066#` WELCOME
+WELCOME
 
 ## *My skills* ❤️
 - Java
